@@ -1,0 +1,664 @@
+{
+  "articles": [
+    {
+      "id": "art-1",
+      "title": "Climate-Smart Farming Techniques: Enhancing Crop Resilience Under Thermal Stress",
+      "slug": "climate-smart-farming-techniques-thermal-stress",
+      "category": "Climate Change",
+      "author": "Dr. P. Sathiyapriya",
+      "authorAffiliation": "Department of Crop Production and Agronomy",
+      "coAuthors": [
+        "Dr. T. Sanker",
+        "R. Manivel"
+      ],
+      "date": "October 14, 2021",
+      "readTime": "8 min read",
+      "abstract": "Thermal extremes and erratic precipitation patterns present escalating threats to global food systems. This paper examines climate-smart agronomic interventions—including micro-irrigation scheduling, multi-tier agroforestry, and stress-tolerant cultivar integration—that measurably stabilize grain yield while sequestering soil organic carbon.",
+      "fullContent": "Thermal anomalies and precipitation unpredictability are severely constraining traditional cropping calendars across tropical and subtropical agro-ecosystems. Under business-as-usual scenarios, baseline crop yields of cereal staples are projected to decline by 12–18% by mid-century without deliberate climate adaptation.\n\nClimate-smart agriculture (CSA) systematically addresses three intertwined objectives: sustainably increasing agricultural productivity and incomes; adapting and building resilience to climate change; and reducing greenhouse gas emissions where feasible.\n\n1. Micro-irrigation and Evapotranspiration Deficit Management:\nTransitioning from conventional flood irrigation to precision solar-powered drip setups has demonstrated water savings of 42% alongside an 18% boost in nitrogen use efficiency. Sub-surface drip systems mitigate evaporative losses during critical anthesis windows.\n\n2. Multi-tier Agroforestry and Canopy Microclimates:\nIntegrating leguminous shade trees (such as Gliricidia sepium and Sesbania grandiflora) with field crops buffers temperature spikes at ground level by 2.4°C to 3.8°C, while depositing over 3.2 tonnes of organic leaf litter per hectare annually.\n\n3. Stress-Tolerant Landrace Germplasm:\nIncorporating short-duration, drought-evasive indigenous millets (Eleusine coracana and Panicum sumatrense) in intercropping matrices creates resilient safety nets against delayed monsoonal onset.",
+      "tags": [
+        "Climate Resilience",
+        "Agronomy",
+        "Micro-Irrigation",
+        "Carbon Sequestration"
+      ],
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2021.0101",
+      "views": 1420,
+      "downloadsCount": 384,
+      "published": true,
+      "issueId": "iss-2021-01",
+      "issueTitle": "Issue 01 — 2021"
+    },
+    {
+      "id": "art-2",
+      "title": "Advances in Crop Genetics and Breeding: Harnessing Wild Relatives for Durable Resistance",
+      "slug": "advances-crop-genetics-wild-relatives",
+      "category": "Plant Breeding",
+      "author": "Dr. B. Ramya",
+      "authorAffiliation": "Department of Crop Improvement",
+      "coAuthors": [
+        "Dr. A. Nahadevan",
+        "K. Soundararajan"
+      ],
+      "date": "October 14, 2021",
+      "readTime": "11 min read",
+      "abstract": "Crop wild relatives (CWR) harbor indispensable genetic reservoirs of biotic and abiotic stress endurance lost through millennia of domestication bottlenecks. We review genomic-assisted introgression pathways, marker-assisted recurrent selection, and QTL mapping applied to wild Oryza and Vigna accessions.",
+      "fullContent": "Modern elite cultivars, while exceptionally high-yielding under optimal chemical inputs, frequently display narrow genetic bases that make them vulnerable to emerging biotypes of pests and soil-borne pathogens. \n\nCrop wild relatives (CWR) represent unmined goldmines of evolutionary adaptation. This review synthesizes key breakthroughs in introgression libraries, whole-genome resequencing, and targeted backcross strategies.\n\nKey Findings:\n- Transfer of broad-spectrum brown planthopper (Nilaparvata lugens) resistance genes (Bph14, Bph18) from wild Oryza nivara into commercially cultivated rice varieties.\n- High-resolution mapping of salinity tolerance QTLs (Saltol) derived from coastal wild accessions, conferring osmotic regulation up to 12 dS/m during seedling stages.\n- Ethical and regulatory frameworks ensuring equitable access to genetic resources under the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA).",
+      "tags": [
+        "Crop Genetics",
+        "Wild Relatives",
+        "QTL Mapping",
+        "Plant Breeding"
+      ],
+      "image": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2021.0102",
+      "views": 1890,
+      "downloadsCount": 512,
+      "published": true,
+      "issueId": "iss-2021-01",
+      "issueTitle": "Issue 01 — 2021"
+    },
+    {
+      "id": "art-3",
+      "title": "Soil Health and Nutrient Management: Microbial Consortia and Carbon Dynamics",
+      "slug": "soil-health-nutrient-management-microbial-consortia",
+      "category": "Soil Science",
+      "author": "Mr. A. Partiban",
+      "authorAffiliation": "Department of Soil Science and Natural Farming",
+      "coAuthors": [
+        "S. Muthukumar",
+        "V. Rajesh"
+      ],
+      "date": "October 14, 2021",
+      "readTime": "7 min read",
+      "abstract": "Long-term soil degradation stems from chemical imbalance and biological impoverishment. This field study evaluates native mycorrhizal fungi (AMF), phosphate-solubilizing bacteria (PSB), and bio-enriched compost in restoring cation exchange capacity and microbial biomass carbon.",
+      "fullContent": "Healthy soil is a living biological ecosystem containing billions of microorganisms in every handful. Decades of heavy synthetic fertilization have depleted soil organic matter (SOM) in intensively cropped alluvial and red soil belts.\n\nMethodological Highlights:\n- Application of consortium containing Glomus intraradices, Azospirillum brasilense, and Bacillus megaterium.\n- Bi-monthly monitoring of active soil organic carbon (SOC), dehydrogenase enzyme activity, and aggregate stability.\n\nResults:\nPlots treated with microbial consortia and 5 t/ha enriched farmyard manure showed a 34% increase in microbial biomass carbon within 180 days, with available phosphorus increasing by 22% through biological solubilization without additional rock phosphate inputs.",
+      "tags": [
+        "Soil Health",
+        "Microbial Consortia",
+        "Biofertilizers",
+        "Nutrient Cycling"
+      ],
+      "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2021.0103",
+      "views": 1105,
+      "downloadsCount": 298,
+      "published": true,
+      "issueId": "iss-2021-01",
+      "issueTitle": "Issue 01 — 2021"
+    },
+    {
+      "id": "art-4",
+      "title": "Organic and Natural Farming Practices: Transitioning Away from Synthetic Chemical Inputs",
+      "slug": "organic-natural-farming-practices-transition",
+      "category": "Natural Farming",
+      "author": "Mr. Naveen Irudhayam",
+      "authorAffiliation": "Department of Plant Protection — Entomology & Pathology",
+      "coAuthors": [
+        "Mrs. D. Ananthanayahi"
+      ],
+      "date": "October 14, 2021",
+      "readTime": "9 min read",
+      "abstract": "Evaluating the economic and agronomic viability of natural farming protocols including fermented bio-stimulants, botanical decoctions, and green manuring. We contrast 3-year transition curves in paddy and pulses, highlighting pest-predator ratios.",
+      "fullContent": "Transitioning from high-input chemical agriculture to agro-ecological natural farming requires systematic soil remediation and biological pest equilibrium. During the initial 1-2 seasons, transient yield dips often deter smallholders unless proper buffer techniques are adopted.\n\nFermented Microbial Formulations:\n- Beejamrit seed coating: Reduces seed-borne fungal infections by 76% in pulse crops.\n- Jeevamrit liquid microbial culture: Stimulates earthworm activity and increases active mycorrhizal root colonization.\n\nEcological Pest Defense:\nPlanting border trap crops (marigold, castor) and installing yellow sticky cards along with bird perches naturally regulates lepidopteran pest populations, lowering chemical insecticide dependencies to zero.",
+      "tags": [
+        "Natural Farming",
+        "Organic Agriculture",
+        "Bio-stimulants",
+        "Pest Management"
+      ],
+      "image": "https://images.unsplash.com/photo-1592417817098-8f3d6910985c?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2021.0104",
+      "views": 1670,
+      "downloadsCount": 440,
+      "published": true,
+      "issueId": "iss-2021-01",
+      "issueTitle": "Issue 01 — 2021"
+    },
+    {
+      "id": "art-5",
+      "title": "Agri-Tech Innovations: AI, IoT & Precision Farming for Smallholder Landscapes",
+      "slug": "agri-tech-innovations-ai-iot-precision-farming",
+      "category": "Agri-Tech",
+      "author": "Mr. B. Sathiyaraja",
+      "authorAffiliation": "Agricultural Communicator & Magazine Coordinator",
+      "coAuthors": [
+        "A. Shankar",
+        "Dr. B. Sindhu Saranya"
+      ],
+      "date": "October 14, 2021",
+      "readTime": "10 min read",
+      "abstract": "Precision agriculture is shedding its high-cost reputation through low-power IoT soil sensors, multispectral drone mapping, and mobile smartphone AI diagnostics. We outline scalable digital architecture tailored for fragmented smallholder agricultural lands.",
+      "fullContent": "Digital agriculture is revolutionizing how farmers detect plant distress, manage irrigation cycles, and forecast harvest windows. Historically, sensor networks were restricted to large monoculture corporate plantations; today, accessible edge computing brings precision tools to smallholders.\n\nKey Architectural Pillars:\n1. Low-Power LoRaWAN Sensor Nodes: Solar-powered soil probes measuring moisture, electrical conductivity, and temperature transmitting up to 10 km.\n2. Edge AI Plant Diagnostics: Convolutional neural networks running offline on Android devices detecting early symptoms of powdery mildew and leaf blast with >92% accuracy.\n3. Satellite NDVI Analytics: Open-source Copernicus Sentinel-2 multispectral imagery synthesized to generate weekly vegetative health index maps for village clusters.",
+      "tags": [
+        "Precision Agriculture",
+        "IoT",
+        "Artificial Intelligence",
+        "Smart Farming"
+      ],
+      "image": "https://images.unsplash.com/photo-1586771107445-d3ca888129ff?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2021.0105",
+      "views": 2310,
+      "downloadsCount": 685,
+      "published": true,
+      "issueId": "iss-2021-01",
+      "issueTitle": "Issue 01 — 2021"
+    },
+    {
+      "id": "art-6",
+      "title": "Agro-Biodiversity Conservation in Eastern Ghats: Documentation of Indigenous Millets",
+      "slug": "agro-biodiversity-eastern-ghats-millets",
+      "category": "Agro-biodiversity",
+      "author": "Mrs. D. Ananthanayahi",
+      "authorAffiliation": "Agricultural Extension and Farmer Innovation",
+      "coAuthors": [
+        "Dr. B. Ramya",
+        "M. Palaniswamy"
+      ],
+      "date": "November 18, 2022",
+      "readTime": "8 min read",
+      "abstract": "Participatory ethnobotanical survey cataloging 24 rare indigenous finger millet and little millet ecotypes cultivated by tribal communities in Kolli Hills and Javadi Hills, evaluating their nutritional density and drought coping mechanisms.",
+      "fullContent": "The Eastern Ghats region of southern India represents a global biodiversity hotspot characterized by rich indigenous agro-ecosystems. Indigenous tribal farmers have conserved drought-hardy, pest-resistant millet landraces over centuries through traditional seed-saving systems.\n\nThis study systematically characterizes physical grain attributes, protein fractions, calcium concentrations, and climate thresholds across 24 localized landraces. Community seed banks emerged as the single most vital operational mechanism for continuous in-situ preservation.",
+      "tags": [
+        "Agro-biodiversity",
+        "Millets",
+        "Indigenous Knowledge",
+        "Conservation"
+      ],
+      "image": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2022.0201",
+      "views": 940,
+      "downloadsCount": 215,
+      "published": true,
+      "issueId": "iss-2022-02",
+      "issueTitle": "Volume 2, Issue 04 — 2022"
+    },
+    {
+      "id": "art-7",
+      "title": "Precision Water Management in Rice Systems: Alternate Wetting and Drying (AWD)",
+      "slug": "precision-water-management-rice-awd",
+      "category": "Crop Science",
+      "author": "Dr. T. Sanker",
+      "authorAffiliation": "Department of Agronomy",
+      "coAuthors": [
+        "Dr. P. Sathiyapriya"
+      ],
+      "date": "July 22, 2023",
+      "readTime": "7 min read",
+      "abstract": "Quantifying methane emission abatement and water productivity gains under perforated field water tube (Pani Pipe) AWD regimes in irrigated lowland rice tracts.",
+      "fullContent": "Conventional continuously flooded rice paddies consume approximately 3,000 to 5,000 liters of fresh water to produce one single kilogram of milled rice, simultaneously contributing significant quantities of anthropogenic methane gas.\n\nAlternate Wetting and Drying (AWD) is an evidence-backed water management protocol developed to preserve aquifer reserves without sacrificing yield. By allowing the soil to dry until the water table drops to 15 cm below the soil surface, irrigation water usage was curtailed by 28% while methane emissions dropped by 38%.",
+      "tags": [
+        "Water Stewardship",
+        "Rice Systems",
+        "AWD",
+        "Methane Reduction"
+      ],
+      "image": "https://images.unsplash.com/photo-1536657464919-892534f60d6e?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2023.0302",
+      "views": 1250,
+      "downloadsCount": 310,
+      "published": true,
+      "issueId": "iss-2023-03",
+      "issueTitle": "Volume 3, Issue 07 — 2023"
+    },
+    {
+      "id": "art-8",
+      "title": "Grassroots Farmer Innovations: Low-Cost Solar Seed Dryers and Modified Weeder Attachments",
+      "slug": "grassroots-farmer-innovations-solar-dryer",
+      "category": "Farmer Innovation",
+      "author": "Mrs. D. Ananthanayahi",
+      "authorAffiliation": "Agricultural Extension and Farmer Innovation",
+      "coAuthors": [
+        "Mr. B. Sathiyaraja",
+        "K. Ramanathan (Farmer-Innovator)"
+      ],
+      "date": "March 15, 2024",
+      "readTime": "6 min read",
+      "abstract": "Documenting field-validated machinery adaptations conceptualized by practicing grassroots farmers: an affordable polycarbonate convective solar dryer and an ergonomic motorized cono-weeder.",
+      "fullContent": "Farmer-led grassroots engineering frequently solves acute operational bottlenecks that industrial farm equipment manufacturers overlook due to scale or cost assumptions. \n\nThis paper examines two notable inventions created by farmer-innovator K. Ramanathan in Thanjavur district:\n1. Convective Greenhouse Solar Dryer: Constructed with UV-stabilized sheet and scrap aluminum frames, curtailing grain moisture from 22% to 12% in under 18 hours while preventing mold contamination.\n2. Modified Cono-Weeder with Battery Power Pack: Reduces physical labor fatigue by 65% in System of Rice Intensification (SRI) fields.",
+      "tags": [
+        "Farmer Innovation",
+        "Appropriate Technology",
+        "Post-Harvest",
+        "Mechanization"
+      ],
+      "image": "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2024.0401",
+      "views": 1530,
+      "downloadsCount": 420,
+      "published": true,
+      "issueId": "iss-2024-04",
+      "issueTitle": "Volume 4, Issue 03 — 2024"
+    },
+    {
+      "id": "art-9",
+      "title": "Biotechnology & Endophytic Microbes for Biotic Stress Alleviation in Solanaceous Crops",
+      "slug": "biotechnology-endophytic-microbes-solanaceous",
+      "category": "Biotechnology",
+      "author": "Dr. A. Nahadevan",
+      "authorAffiliation": "Department of Horticulture and Vegetable Science",
+      "coAuthors": [
+        "Mr. Naveen Irudhayam"
+      ],
+      "date": "September 10, 2025",
+      "readTime": "9 min read",
+      "abstract": "Investigating bacterial and fungal endophytes isolated from wild tomato accessions (Solanum pimpinellifolium) that elicit systemic acquired resistance against Ralstonia solanacearum bacterial wilt.",
+      "fullContent": "Bacterial wilt caused by Ralstonia solanacearum remains one of the most devastating and difficult-to-control soil-borne pathogens affecting tomatoes, brinjals, and chili peppers. \n\nThrough metagenomic profiling, 18 distinct endophytic strains were isolated from asymptomatic wild solanum plants growing in saline and disease-endemic river basins. Inoculating susceptible commercial tomato seedlings with Bacillus amyloliquefaciens strain AG-8 resulted in significant suppression of vascular wilt symptoms through jasmonic acid pathway priming.",
+      "tags": [
+        "Biotechnology",
+        "Endophytes",
+        "Systemic Resistance",
+        "Horticulture"
+      ],
+      "image": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2025.0502",
+      "views": 1180,
+      "downloadsCount": 295,
+      "published": true,
+      "issueId": "iss-2025-05",
+      "issueTitle": "Volume 5, Issue 09 — 2025"
+    },
+    {
+      "id": "art-10",
+      "title": "Agro-Ecological Plant Protection: Biological Suppression of Fall Armyworm (Spodoptera frugiperda)",
+      "slug": "biological-suppression-fall-armyworm",
+      "category": "Agriculture",
+      "author": "Mr. Naveen Irudhayam",
+      "authorAffiliation": "Plant Protection — Entomology & Pathology",
+      "coAuthors": [
+        "Dr. B. Ramya",
+        "A. Shankar"
+      ],
+      "date": "January 19, 2026",
+      "readTime": "8 min read",
+      "abstract": "Assessing parasitoid mass releases (Trichogramma chilonis) and entomopathogenic fungi (Nomuraea rileyi) in maize fields across southern peninsular India.",
+      "fullContent": "Since its invasive arrival in India, the Fall Armyworm has caused widespread economic damage to maize and sorghum crops. Synthetic broad-spectrum pesticides often lead to rapid pest resistance, destruction of beneficial predatory fauna, and chemical residues in livestock fodder.\n\nThis longitudinal trial across 12 demonstration villages established that early whorl placement of Trichogramma egg parasitoids combined with spray applications of entomopathogenic fungus Nomuraea rileyi brought larval leaf damage below the economic injury threshold of 10%, achieving parity with conventional chemical treatments at 40% reduced cost.",
+      "tags": [
+        "Plant Protection",
+        "Biological Control",
+        "Entomology",
+        "Crop Health"
+      ],
+      "image": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&q=80&w=800",
+      "doi": "10.5281/agrodiversity.2026.0601",
+      "views": 890,
+      "downloadsCount": 240,
+      "published": true,
+      "issueId": "iss-2026-06",
+      "issueTitle": "Volume 6, Issue 01 — 2026"
+    }
+  ],
+  "issues": [
+    {
+      "id": "iss-2021-01",
+      "volume": "Volume 1",
+      "issueNumber": "Issue 01",
+      "month": "October",
+      "year": 2021,
+      "title": "Inaugural Issue: Connecting Crops, Climate, Culture, and Science",
+      "theme": "Foundation of Sustainable Agro-Ecosystems & Biodiversity",
+      "coverImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=600",
+      "pdfUrl": "/documents/Agrodiversity_Issue_01_2021.pdf",
+      "editorialMessage": "It gives us immense pride to present the inaugural issue of Agrodiversity Magazine under SRN Publication. This issue establishes our mission: uniting farmers, scientists, academicians, and policy makers into a shared collaborative ecosystem.",
+      "publishedDate": "October 14, 2021",
+      "articlesCount": 5,
+      "published": true,
+      "featuredArticleIds": [
+        "art-1",
+        "art-2",
+        "art-3",
+        "art-4",
+        "art-5"
+      ]
+    },
+    {
+      "id": "iss-2022-02",
+      "volume": "Volume 2",
+      "issueNumber": "Issue 04",
+      "month": "November",
+      "year": 2022,
+      "title": "Special Issue: Millets, Indigenous Landraces & Traditional Knowledge",
+      "theme": "Agro-Biodiversity Preservation and Tribal Food Traditions",
+      "coverImage": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=600",
+      "pdfUrl": "/documents/Agrodiversity_Vol2_Issue4_2022.pdf",
+      "editorialMessage": "A dedicated collection illuminating indigenous crop landraces and community seed systems as pivotal bulwarks against accelerating climate instability.",
+      "publishedDate": "November 18, 2022",
+      "articlesCount": 8,
+      "published": true,
+      "featuredArticleIds": [
+        "art-6"
+      ]
+    },
+    {
+      "id": "iss-2023-03",
+      "volume": "Volume 3",
+      "issueNumber": "Issue 07",
+      "month": "July",
+      "year": 2023,
+      "title": "Water Stewardship & Conservation Agronomy in Tropical Deltas",
+      "theme": "Precision Irrigation & Climate-Smart Water Conservation",
+      "coverImage": "https://images.unsplash.com/photo-1536657464919-892534f60d6e?auto=format&fit=crop&q=80&w=600",
+      "pdfUrl": "/documents/Agrodiversity_Vol3_Issue7_2023.pdf",
+      "editorialMessage": "Examining practical aquifer conservation protocols, alternate wetting and drying in rice paddies, and sub-surface irrigation engineering.",
+      "publishedDate": "July 22, 2023",
+      "articlesCount": 7,
+      "published": true,
+      "featuredArticleIds": [
+        "art-7"
+      ]
+    },
+    {
+      "id": "iss-2024-04",
+      "volume": "Volume 4",
+      "issueNumber": "Issue 03",
+      "month": "March",
+      "year": 2024,
+      "title": "Grassroots Inventions & Appropriate Farm Mechanization",
+      "theme": "Empowering Smallholder Farmers with Affordable Engineering",
+      "coverImage": "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&q=80&w=600",
+      "pdfUrl": "/documents/Agrodiversity_Vol4_Issue3_2024.pdf",
+      "editorialMessage": "Highlighting innovative tools engineered by farmers themselves in their backyard workshops to solve acute rural agricultural bottlenecks.",
+      "publishedDate": "March 15, 2024",
+      "articlesCount": 9,
+      "published": true,
+      "featuredArticleIds": [
+        "art-8"
+      ]
+    },
+    {
+      "id": "iss-2025-05",
+      "volume": "Volume 5",
+      "issueNumber": "Issue 09",
+      "month": "September",
+      "year": 2025,
+      "title": "Biotechnology & Biological Frontiers in Crop Protection",
+      "theme": "Microbiome Science, Endophytes, and Ecological Pest Control",
+      "coverImage": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?auto=format&fit=crop&q=80&w=600",
+      "pdfUrl": "/documents/Agrodiversity_Vol5_Issue9_2025.pdf",
+      "editorialMessage": "Delving into microbial inoculants, endophytic interactions, and biological pathways safeguarding solanaceous and horticultural crops.",
+      "publishedDate": "September 10, 2025",
+      "articlesCount": 10,
+      "published": true,
+      "featuredArticleIds": [
+        "art-9"
+      ]
+    },
+    {
+      "id": "iss-2026-06",
+      "volume": "Volume 6",
+      "issueNumber": "Issue 01",
+      "month": "January",
+      "year": 2026,
+      "title": "Current Issue: Next-Gen Precision Agriculture & Agro-Ecosystems",
+      "theme": "AI, IoT, and Agro-Ecological Paradigms for 2026 and Beyond",
+      "coverImage": "https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&q=80&w=600",
+      "pdfUrl": "/documents/Agrodiversity_Vol6_Issue1_2026.pdf",
+      "editorialMessage": "Welcome to 2026. This issue showcases how artificial intelligence, satellite sensors, and agro-ecological principles merge to build durable rural prosperity.",
+      "publishedDate": "January 19, 2026",
+      "articlesCount": 11,
+      "published": true,
+      "featuredArticleIds": [
+        "art-10",
+        "art-5"
+      ]
+    }
+  ],
+  "editors": [
+    {
+      "id": "ed-1",
+      "name": "Dr. B. Ramya",
+      "role": "Editor-in-Chief",
+      "department": "Department of Crop Improvement",
+      "affiliation": "Associate Professor, Department of Crop Improvement",
+      "category": "Editor-in-Chief",
+      "email": "agrodivemagz@gamil.com",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400",
+      "bio": "Senior researcher specializing in crop genetic enhancement, wild germplasm conservation, and sustainable agrarian systems with over 15 years of academic leadership."
+    },
+    {
+      "id": "ed-2",
+      "name": "Mr. B. Sathiyaraja",
+      "role": "Managing Editor",
+      "department": "Agricultural Communication & Editorial Coordination",
+      "affiliation": "Agricultural Communicator & Magazine Coordinator",
+      "category": "Managing Editor",
+      "email": "balramagri@gmail.com",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+      "bio": "Pioneering agricultural science communicator connecting cutting-edge institutional research with grassroots farming communities across India."
+    },
+    {
+      "id": "ed-3",
+      "name": "Dr. T. Sanker",
+      "role": "Associate Editor",
+      "department": "Department of Agronomy",
+      "affiliation": "Department of Agronomy",
+      "category": "Associate Editors",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+      "bio": "Expert agronomist focusing on integrated nutrient management, water stewardship, and climate-resilient cropping systems."
+    },
+    {
+      "id": "ed-4",
+      "name": "Dr. P. Sathiyapriya",
+      "role": "Section Editor",
+      "subSection": "Crop Production and Agronomy",
+      "department": "Crop Production & Agronomy",
+      "affiliation": "Senior Scientist & Agronomy Specialist",
+      "category": "Section Editors",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400",
+      "bio": "Leading research on high-efficiency crop production regimes and conservation tillage in arid and semi-arid agro-ecologies."
+    },
+    {
+      "id": "ed-5",
+      "name": "Mr. Naveen Irudhayam",
+      "role": "Section Editor",
+      "subSection": "Plant Protection — Entomology & Pathology",
+      "department": "Entomology & Plant Pathology",
+      "affiliation": "Department of Plant Protection",
+      "category": "Section Editors",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=400",
+      "bio": "Specialist in biological pest suppression, botanical formulations, and phytopathological diagnostics in field crops."
+    },
+    {
+      "id": "ed-6",
+      "name": "Mr. A. Partiban",
+      "role": "Section Editor",
+      "subSection": "Soil Science and Natural Farming",
+      "department": "Soil Science & Natural Farming Systems",
+      "affiliation": "Department of Soil Science",
+      "category": "Section Editors",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=400",
+      "bio": "Researcher dedicated to microbial soil health, regenerative bio-char additions, and native organic agro-ecosystems."
+    },
+    {
+      "id": "ed-7",
+      "name": "Dr. A. Nahadevan",
+      "role": "Section Editor",
+      "subSection": "Horticulture and Vegetable Science",
+      "department": "Horticulture & Vegetable Science",
+      "affiliation": "Faculty of Horticulture",
+      "category": "Section Editors",
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=400",
+      "bio": "Innovator in polyhouse protected cultivation, indigenous vegetable germplasm preservation, and post-harvest technology."
+    },
+    {
+      "id": "ed-8",
+      "name": "Mrs. D. Ananthanayahi",
+      "role": "Section Editor",
+      "subSection": "Agricultural Extension and Farmer Innovation",
+      "department": "Agricultural Extension",
+      "affiliation": "Center for Farmer Innovation & Extension",
+      "category": "Section Editors",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=400",
+      "bio": "Bridging scientific laboratories and grassroots farming groups with participatory technology transfer models."
+    },
+    {
+      "id": "ed-9",
+      "name": "Mr. B. Sathiyaraja",
+      "role": "Technical Editor (Layout & Design)",
+      "department": "Publication Layout & Graphic Engineering",
+      "affiliation": "SRN Publication Design Cell",
+      "category": "Technical Editors",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+      "bio": "Lead publication architect overseeing visual typography, editorial layouts, and digital dissemination standards."
+    },
+    {
+      "id": "ed-10",
+      "name": "Dr. B. Sindhu Saranya",
+      "role": "Technical Editor (Layout & Design)",
+      "department": "Journal Production & Layout Design",
+      "affiliation": "SRN Publication Technical Division",
+      "category": "Technical Editors",
+      "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&q=80&w=400",
+      "bio": "Specializing in academic journal typesetting, scientific figure integrity, and international publishing metadata."
+    },
+    {
+      "id": "ed-11",
+      "name": "Mrs. S. Logeshwari",
+      "role": "Language Editor — English & Tamil",
+      "department": "Bilingual Editorial & Scientific Lexicon",
+      "affiliation": "Linguistic Advisory Cell",
+      "category": "Technical Editors",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=400",
+      "bio": "Overseeing scientific precision and clarity in both English and Tamil editions for academic rigor and vernacular reach."
+    },
+    {
+      "id": "ed-12",
+      "name": "Mr. B. Sathiyaraja",
+      "role": "Digital Media Editor",
+      "department": "Electronic Publishing & Web Communications",
+      "affiliation": "Digital Publishing Desk",
+      "category": "Technical Editors",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+      "bio": "Managing digital distribution channels, open-access indexing, and multimedia dissemination."
+    },
+    {
+      "id": "ed-13",
+      "name": "A. Shankar",
+      "role": "Student Editorial Board",
+      "department": "Agricultural Science Research Scholar",
+      "affiliation": "Postgraduate Scholar in Crop Science",
+      "category": "Student Editorial Board",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=400",
+      "bio": "Representing early-career researchers and fostering academic review engagement among postgraduate agricultural scholars."
+    },
+    {
+      "id": "ed-14",
+      "name": "Mr. B. Sathiyaraja",
+      "role": "Social Media Coordinator",
+      "department": "Scientific Outreach & Community Engagement",
+      "affiliation": "Public Engagement Cell",
+      "category": "Social Media Coordinator",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400",
+      "bio": "Leading digital outreach across professional academic networks, farmer forums, and agricultural innovation groups."
+    }
+  ],
+  "submissions": [
+    {
+      "id": "ADM-2026-1042",
+      "authorName": "Dr. K. Senthilkumar",
+      "email": "senthil.agri@tnau.ac.in",
+      "phone": "+91 94432 11890",
+      "institution": "Tamil Nadu Agricultural University (TNAU), Coimbatore",
+      "articleTitle": "Evaluation of Seaweed Bio-Extracts (Kappaphycus alvarezii) on Groundnut Pod Yield and Oil Content",
+      "articleType": "Case Study / Field Report",
+      "subjectArea": "Natural Farming",
+      "coAuthors": "M. Anuradha, P. Devaraj",
+      "fileName": "Senthilkumar_Seaweed_Groundnut_Study.docx",
+      "fileSize": "1.4 MB",
+      "submittedAt": "2026-02-14 11:30 AM",
+      "status": "Under Review",
+      "declarationAccepted": true,
+      "notes": "Assigned to Dr. P. Sathiyapriya for peer review."
+    },
+    {
+      "id": "ADM-2026-1038",
+      "authorName": "Prof. Priya Nandhini",
+      "email": "priya.nandhini@agri-uni.org",
+      "phone": "+91 98840 55672",
+      "institution": "Central Agricultural University, Imphal",
+      "articleTitle": "Systematic Review of CRISPR/Cas9 Genome Editing in Pulses for Drought Tolerance",
+      "articleType": "Review Article",
+      "subjectArea": "Plant Breeding",
+      "coAuthors": "Dr. Rajeshwar Sharma",
+      "fileName": "CRISPR_Pulses_Review_2026.docx",
+      "fileSize": "2.1 MB",
+      "submittedAt": "2026-02-08 04:15 PM",
+      "status": "Revision",
+      "declarationAccepted": true,
+      "notes": "Reviewer requested minor citation additions for non-homologous end joining mechanisms."
+    },
+    {
+      "id": "ADM-2026-1025",
+      "authorName": "Er. Ramesh Velu",
+      "email": "ramesh.innovator@gmail.com",
+      "phone": "+91 97890 23411",
+      "institution": "Grassroots Agri-Engineering Consortium, Erode",
+      "articleTitle": "Design and Validation of a Low-Cost Tractor-Drawn Turmeric Harvester",
+      "articleType": "Farmer Innovation / Success Story",
+      "subjectArea": "Farmer Innovation",
+      "coAuthors": "None",
+      "fileName": "Turmeric_Harvester_Innovation.docx",
+      "fileSize": "980 KB",
+      "submittedAt": "2026-01-28 09:45 AM",
+      "status": "Accepted",
+      "declarationAccepted": true,
+      "notes": "Accepted for publication in upcoming Volume 6, Issue 2. Payment verification pending."
+    }
+  ],
+  "members": [
+    {
+      "id": "mem-1",
+      "name": "Dr. Arvind Subramanian",
+      "email": "arvind.subramanian@icar.gov.in",
+      "phone": "+91 94441 88902",
+      "institution": "ICAR - Indian Institute of Soil Science",
+      "membershipType": "Lifetime Membership",
+      "membershipId": "ADM-LM-2024-042",
+      "feePaid": 1500,
+      "validUntil": "Lifetime",
+      "status": "Active",
+      "joinedDate": "2024-03-10"
+    },
+    {
+      "id": "mem-2",
+      "name": "S. Kavitha Devi",
+      "email": "kavitha.agri@gmail.com",
+      "phone": "+91 98402 77123",
+      "institution": "Department of Agricultural Botany, TNAU",
+      "membershipType": "Annual Membership",
+      "membershipId": "ADM-AM-2025-119",
+      "feePaid": 650,
+      "validUntil": "2026-12-31",
+      "status": "Active",
+      "joinedDate": "2025-01-15"
+    }
+  ],
+  "settings": {
+    "publicationFees": {
+      "annualMember": 700,
+      "coAuthorNonMember": 200,
+      "nonMember": 300,
+      "indianAuthors": 700,
+      "saarcCountries": 20,
+      "otherCountries": 25
+    },
+    "membershipFees": {
+      "annualMembership": 650,
+      "lifetimeMembership": 1500
+    },
+    "contact": {
+      "editorInChief": "Dr. B. Ramya",
+      "editorialEmail": "agrodivemagz@gamil.com",
+      "submissionEmail": "balramagri@gmail.com",
+      "phone": "+91 9790879038",
+      "publisher": "SRN Publication",
+      "officeAddress": "SRN Publication Editorial Office, Agricultural Science Division, Tamil Nadu, India"
+    },
+    "schedule": {
+      "frequency": "Monthly",
+      "releaseWindow": "Second week of every month",
+      "fastTrackDuration": "1–7 working days in urgent cases"
+    },
+    "discrepancyNotice": "Note for Administrator: Source documents contain differences between Annual Membership fee (₹650) and Annual Member Publication fee (₹700), as well as separate editorial (agrodivemagz@gamil.com) and manuscript submission (balramagri@gmail.com) email addresses. These values are preserved transparently and remain fully configurable here."
+  }
+}
