@@ -17,7 +17,7 @@ export const EditorCard: React.FC<EditorCardProps> = ({ editor, featured = false
       <div className="p-6 space-y-4">
         {/* Top Header: Image & Badges */}
         <div className="flex items-start gap-4">
-          <div className="relative flex-shrink-0">
+          {/* <div className="relative flex-shrink-0">
             <img
               src={editor.image || 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=400'}
               alt={editor.name}
@@ -26,7 +26,7 @@ export const EditorCard: React.FC<EditorCardProps> = ({ editor, featured = false
             <div className="absolute -bottom-1 -right-1 w-6 h-6 rounded-full bg-agro-primary text-agro-gold flex items-center justify-center text-[10px] shadow">
               🌱
             </div>
-          </div>
+          </div> */}
 
           <div className="space-y-1 min-w-0">
             <span className="inline-block px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider bg-agro-tint text-agro-dark border border-agro-leaf/20">
