@@ -88,7 +88,7 @@ export const About: React.FC = () => {
             Connecting Crops, Climate, Culture, and Science
           </h1>
           <p className="text-sm sm:text-lg text-agro-tint font-light leading-relaxed">
-            Agrodiversity Magazine is an international peer-reviewed academic and practitioner platform dedicated to advancing sustainable agro-ecosystems and empowering farming communities worldwide.
+            Agrodiversity Magazine is an international peer reviewed academic and practitioner platform dedicated to advancing sustainable agro ecosystems and empowering farming communities worldwide.
           </p>
         </div>
       </div>
@@ -106,7 +106,7 @@ export const About: React.FC = () => {
             </h2>
             <div className="h-1 w-12 bg-agro-gold"></div>
             <blockquote className="font-serif italic text-base sm:text-lg text-agro-leaf font-medium pt-2 leading-relaxed">
-              “To create a globally recognized platform that promotes sustainable agro-ecosystems through knowledge sharing, innovation, and collaboration.”
+              “To create a globally recognized platform that promotes sustainable agro ecosystems through knowledge sharing, innovation, and collaboration.”
             </blockquote>
           </div>
           <p className="text-xs sm:text-sm text-gray-600 leading-relaxed pt-4 border-t border-gray-100">
@@ -130,7 +130,7 @@ export const About: React.FC = () => {
             <li className="flex items-start gap-2.5">
               <CheckCircle2 className="w-4 h-4 text-agro-leaf flex-shrink-0 mt-0.5" />
               <span>
-                <strong>Disseminate high-quality research:</strong> Publish peer-reviewed articles, case studies, and critical reviews across agriculture and allied sciences.
+                <strong>Disseminate high quality research:</strong> Publish peer-reviewed articles, case studies, and critical reviews across agriculture and allied sciences.
               </span>
             </li>
             <li className="flex items-start gap-2.5">

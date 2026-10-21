@@ -35,7 +35,7 @@ export function App() {
   return (
     <Router>
       <ScrollToTop />
-      <div className="min-h-screen flex flex-col bg-[#fbfbf9] text-[#1a2e22]">
+      <div className="min-h-screen flex flex-col bg-white text-[#263f5b]">
         {/* Navigation Header */}
         <Navbar onOpenSearch={() => setIsSearchOpen(true)} />
 

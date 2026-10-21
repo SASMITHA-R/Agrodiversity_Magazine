@@ -77,10 +77,10 @@ export const Contact: React.FC = () => {
                     Official Editorial Email
                   </span>
                   <a
-                    href="mailto:agrodivemagz@gamil.com"
+                    href="mailto:agrodivemagz@gmail.com"
                     className="font-bold text-agro-dark hover:text-agro-primary hover:underline break-all"
                   >
-                    agrodivemagz@gamil.com
+                    agrodivemagz@gmail.com
                   </a>
                   <p className="text-[11px] text-gray-500">
                     Manuscripts & Queries: balramagri@gmail.com

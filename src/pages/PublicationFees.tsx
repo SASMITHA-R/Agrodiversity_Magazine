@@ -89,36 +89,33 @@ export const PublicationFees: React.FC = () => {
               <tr className="hover:bg-agro-surface/50 transition-colors">
                 <td className="py-4 px-4 font-semibold text-agro-dark flex items-center gap-2">
                   <span className="w-2 h-2 rounded-full bg-agro-leaf"></span>
-                  Annual Member (India)
+                  Annual Member – India
                 </td>
                 <td className="py-4 px-4 text-gray-600">
                   Registered active annual member with valid Member ID
                 </td>
                 <td className="py-4 px-4 text-right font-mono font-bold text-base text-agro-primary">
-                  ₹700 INR
+                  ₹700 INR / 3 Articles
                 </td>
               </tr>
 
               <tr className="hover:bg-agro-surface/50 transition-colors">
                 <td className="py-4 px-4 font-semibold text-agro-dark flex items-center gap-2">
                   <span className="w-2 h-2 rounded-full bg-gray-400"></span>
-                  Non-Member (India)
+                  Non-Member – India
                 </td>
                 <td className="py-4 px-4 text-gray-600">
                   Authors submitting without prior annual society membership
                 </td>
                 <td className="py-4 px-4 text-right font-mono font-bold text-base text-gray-800">
-                  ₹700 INR
-                  <span className="block text-[10px] text-amber-700 font-sans font-normal">
-                    (₹300 in secondary doc context — to be confirmed by editorial office)
-                  </span>
+                  ₹300 INR
                 </td>
               </tr>
 
               <tr className="hover:bg-agro-surface/50 transition-colors">
                 <td className="py-4 px-4 font-semibold text-agro-dark flex items-center gap-2">
                   <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  Co-Author (Non-Member)
+                  Non-Member Co-Author – India
                 </td>
                 <td className="py-4 px-4 text-gray-600">
                   Non-member secondary co-authors listed on accepted paper
@@ -137,7 +134,7 @@ export const PublicationFees: React.FC = () => {
                   Authors affiliated with institutions in SAARC nations
                 </td>
                 <td className="py-4 px-4 text-right font-mono font-bold text-base text-blue-800">
-                  $20 USD
+                  USD 10
                 </td>
               </tr>
 
@@ -150,7 +147,7 @@ export const PublicationFees: React.FC = () => {
                   Authors affiliated with international institutions outside SAARC
                 </td>
                 <td className="py-4 px-4 text-right font-mono font-bold text-base text-purple-800">
-                  $25 USD
+                  USD 15
                 </td>
               </tr>
             </tbody>

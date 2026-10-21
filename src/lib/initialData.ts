@@ -15,7 +15,7 @@ export const initialSiteSettings: SiteSettings = {
   },
   contact: {
     editorInChief: "Dr. B. Ramya",
-    editorialEmail: "agrodivemagz@gamil.com",
+    editorialEmail: "agrodivemagz@gmail.com",
     submissionEmail: "balramagri@gmail.com",
     phone: "+91 9790879038",
     publisher: "SRN Publication",
@@ -26,7 +26,7 @@ export const initialSiteSettings: SiteSettings = {
     releaseWindow: "Second week of every month",
     fastTrackDuration: "1–7 working days in urgent cases",
   },
-  discrepancyNotice: "Note for Administrator: Source documents contain differences between Annual Membership fee (₹650) and Annual Member Publication fee (₹700), as well as separate editorial (agrodivemagz@gamil.com) and manuscript submission (balramagri@gmail.com) email addresses. These values are preserved transparently and remain fully configurable here.",
+  discrepancyNotice: "Note for Administrator: Source documents contain differences between Annual Membership fee (₹650) and Annual Member Publication fee (₹700), as well as separate editorial (agrodivemagz@gmail.com) and manuscript submission (balramagri@gmail.com) email addresses. These values are preserved transparently and remain fully configurable here.",
 };
 
 export const initialEditors: Editor[] = [
@@ -37,7 +37,7 @@ export const initialEditors: Editor[] = [
     department: "Department of Crop Improvement",
     affiliation: "Associate Professor, Department of Crop Improvement",
     category: "Editor-in-Chief",
-    email: "agrodivemagz@gamil.com",
+    email: "agrodivemagz@gmail.com",
     image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400",
     bio: "Senior researcher specializing in crop genetic enhancement, wild germplasm conservation, and sustainable agrarian systems with over 15 years of academic leadership.",
   },
@@ -432,7 +432,7 @@ Through metagenomic profiling, 18 distinct endophytic strains were isolated from
 This longitudinal trial across 12 demonstration villages established that early whorl placement of Trichogramma egg parasitoids combined with spray applications of entomopathogenic fungus Nomuraea rileyi brought larval leaf damage below the economic injury threshold of 10%, achieving parity with conventional chemical treatments at 40% reduced cost.`,
     tags: ["Plant Protection", "Biological Control", "Entomology", "Crop Health"],
     image: "https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&q=80&w=800",
-    doi: "10.5281/agrodiversity.2026.0601",
+    doi: "10.5281/agrodiversity.2026.0001",
     views: 890,
     downloadsCount: 240,
     published: true,

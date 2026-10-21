@@ -61,6 +61,27 @@ export const AuthorGuidelines: React.FC = () => {
     { name: "References", desc: "Complete citations formatted consistently in APA / standard scientific style." },
   ];
 
+  const researchArticleFormat = [
+    { name: "Title", desc: "The title should be concise, informative, and relevant to the study." },
+    { name: "Authors and Affiliations", desc: "Provide the full names, institutional affiliations, and corresponding author details." },
+    { name: "Abstract", desc: "Provide a clear and concise summary of the objectives, methodology, major results, and conclusions." },
+    { name: "Keywords", desc: "Include 4–6 relevant keywords that are not already included in the title." },
+    { name: "Introduction", desc: "Clearly state the research background, rationale, objectives, and relevant literature." },
+    { name: "Materials and Methods", desc: "Describe the experimental materials, study design, procedures, statistical methods, and other details sufficiently to allow replication." },
+    { name: "Results", desc: "Present the findings clearly using appropriate text, tables, and figures." },
+    { name: "Discussion", desc: "Interpret the results in relation to previous studies and explain their scientific significance." },
+    { name: "Conclusion", desc: "Present the major conclusions and implications of the study." },
+    { name: "References", desc: "Cite all sources appropriately and provide complete bibliographic details according to the journal's prescribed reference style." },
+    { name: "Tables and Figures", desc: "Tables and figures should be numbered consecutively, appropriately titled, and cited in the text." },
+    { name: "Ethical and Research Standards", desc: "Authors must ensure that the research complies with applicable ethical, institutional, and regulatory requirements." },
+    { name: "Originality", desc: "Manuscripts must be original and must not be under consideration for publication elsewhere." },
+    { name: "Conflict of Interest", desc: "Authors should declare any potential conflicts of interest." },
+    { name: "Acknowledgements and Funding", desc: "Funding sources and relevant acknowledgements should be clearly stated." },
+    { name: "Plagiarism and Duplicate Publication", desc: "Manuscripts should be free from plagiarism, substantial duplication, and inappropriate reuse of previously published material." },
+    { name: "Peer Review", desc: "Submitted manuscripts will undergo editorial screening and peer review according to the journal's policies." },
+    { name: "Corrections and Errata", desc: "Any significant error identified after publication should be promptly reported to the editorial office for appropriate correction through an erratum or corrigendum." },
+  ];
+
   const handleDownloadTemplate = () => {
     const templateText = `AGRODIVERSITY MAGAZINE — OFFICIAL MANUSCRIPT TEMPLATE\nPublished under SRN Publication (Monthly Peer-Reviewed E-Magazine)\n\n[TITLE OF THE MANUSCRIPT IN TIMES NEW ROMAN 14PT BOLD]\n\nAuthor Name 1¹*, Author Name 2²\n¹ Department, Institution/University, City, State, Country\n² Department, Institution/University, City, State, Country\n* Corresponding Author Email: author@example.com\n\nABSTRACT\n[Insert concise abstract here. Maximum 250 words. Must summarize background, objectives, methodology, key findings, and agricultural significance.]\n\nKeywords: Keyword 1, Keyword 2, Keyword 3, Keyword 4 (Provide 4–6 keywords)\n\n1. INTRODUCTION\n[State the rationale, relevant background, and clear objectives of the study.]\n\n2. MATERIALS AND METHODS\n[Provide adequate experimental details. All units must strictly be SI units.]\n\n3. RESULTS\n[Present findings clearly. Cite tables (e.g., Table 1) and figures (e.g., Figure 1) consecutively.]\n\n4. DISCUSSION\n[Interpret results, highlighting practical farming implications.]\n\n5. CONCLUSION\n[Summarize the primary takeaways and future scope.]\n\nREFERENCES\n[List references in standard APA format.]`;
 
@@ -250,6 +271,24 @@ export const AuthorGuidelines: React.FC = () => {
             </div>
           ))}
         </div>
+      </div>
+
+      {/* 5. Research Article Format */}
+      <div className="journal-card rounded-2xl p-6 sm:p-8 bg-white border border-gray-200/90 shadow-md space-y-6">
+        <h2 className="font-serif font-bold text-xl sm:text-2xl text-agro-dark border-b border-gray-100 pb-3">
+          5. Research Article Format
+        </h2>
+
+        <ul className="space-y-3 text-xs sm:text-sm text-gray-700">
+          {researchArticleFormat.map((item, i) => (
+            <li key={i} className="flex items-start gap-2.5">
+              <CheckCircle2 className="w-4 h-4 text-agro-leaf flex-shrink-0 mt-0.5" />
+              <span>
+                <strong>{item.name}</strong> – {item.desc}
+              </span>
+            </li>
+          ))}
+        </ul>
       </div>
 
       {/* Download Template & CTA Bar */}

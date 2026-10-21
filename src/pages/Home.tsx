@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import {
   Sprout,
   CloudSun,
@@ -19,15 +19,15 @@ import {
   Sparkles,
   CheckCircle2,
   Layers,
-  HeartHandshake
-} from 'lucide-react';
-import { Hero } from '../components/Hero';
-import { ArticleCard } from '../components/ArticleCard';
-import { Article, Issue } from '../types';
-import { articleService } from '../services/articleService';
-import { issueService } from '../services/issueService';
-import { PDFViewerModal } from '../components/PDFViewerModal';
-import { ArticleReaderModal } from '../components/ArticleReaderModal';
+  HeartHandshake,
+} from "lucide-react";
+import { Hero } from "../components/Hero";
+import { ArticleCard } from "../components/ArticleCard";
+import { Article, Issue } from "../types";
+import { articleService } from "../services/articleService";
+import { issueService } from "../services/issueService";
+import { PDFViewerModal } from "../components/PDFViewerModal";
+import { ArticleReaderModal } from "../components/ArticleReaderModal";
 
 export const Home: React.FC = () => {
   const [articles, setArticles] = useState<Article[]>([]);
@@ -46,56 +46,65 @@ export const Home: React.FC = () => {
     {
       id: 1,
       title: "Agro-biodiversity Conservation",
-      description: "Preserving heritage landraces, wild crop relatives, and traditional seed-saving systems to safeguard agrarian genetic resilience.",
+      description:
+        "Preserving heritage landraces, wild crop relatives, and traditional seed-saving systems to safeguard agrarian genetic resilience.",
       icon: Sprout,
       color: "from-emerald-500 to-green-700",
-      accent: "bg-emerald-50 text-emerald-800 border-emerald-200"
+      accent: "bg-emerald-50 text-emerald-800 border-emerald-200",
     },
     {
       id: 2,
       title: "Climate Change Adaptation",
-      description: "Equipping farming systems with drought-resilient crops, canopy microclimate management, and flood-tolerant cultivation regimes.",
+      description:
+        "Equipping farming systems with drought-resilient crops, canopy microclimate management, and flood-tolerant cultivation regimes.",
       icon: CloudSun,
       color: "from-amber-500 to-orange-600",
-      accent: "bg-amber-50 text-amber-800 border-amber-200"
+      accent: "bg-amber-50 text-amber-800 border-amber-200",
     },
     {
       id: 3,
       title: "Sustainable Crop Production",
-      description: "Integrating ecological crop rotations, integrated pest management (IPM), and biological agro-ecosystems to optimize long-term yields.",
+      description:
+        "Integrating ecological crop rotations, integrated pest management (IPM), and biological agro-ecosystems to optimize long-term yields.",
       icon: Leaf,
       color: "from-green-600 to-teal-800",
-      accent: "bg-green-50 text-green-800 border-green-200"
+      accent: "bg-green-50 text-green-800 border-green-200",
     },
     {
       id: 4,
       title: "Soil and Water Management",
-      description: "Restoring active organic carbon, microbial consortia, and precision water stewardship like Alternate Wetting and Drying (AWD).",
+      description:
+        "Restoring active organic carbon, microbial consortia, and precision water stewardship like Alternate Wetting and Drying (AWD).",
       icon: Droplets,
       color: "from-blue-500 to-cyan-700",
-      accent: "bg-blue-50 text-blue-800 border-blue-200"
+      accent: "bg-blue-50 text-blue-800 border-blue-200",
     },
     {
       id: 5,
       title: "Plant Biotechnology and Breeding",
-      description: "Leveraging molecular markers, QTL introgression, and non-transgenic endophytic bioprospecting for biotic and abiotic tolerance.",
+      description:
+        "Leveraging molecular markers, QTL introgression, and non-transgenic endophytic bioprospecting for biotic and abiotic tolerance.",
       icon: Dna,
       color: "from-purple-500 to-indigo-700",
-      accent: "bg-purple-50 text-purple-800 border-purple-200"
+      accent: "bg-purple-50 text-purple-800 border-purple-200",
     },
     {
       id: 6,
       title: "Farmer-Centric Innovations",
-      description: "Validating grassroots inventions, farmer-engineered tools, and indigenous agronomic wisdom through participatory science.",
+      description:
+        "Validating grassroots inventions, farmer-engineered tools, and indigenous agronomic wisdom through participatory science.",
       icon: Wrench,
       color: "from-amber-600 to-red-600",
-      accent: "bg-orange-50 text-orange-800 border-orange-200"
-    }
+      accent: "bg-orange-50 text-orange-800 border-orange-200",
+    },
   ];
 
   const stakeholders = [
     { name: "Researchers", desc: "Publishing peer-reviewed discoveries" },
-    { name: "Farmers", desc: "Sharing field innovations & traditional methods" },
+    {
+      name: "Farmers",
+      desc: "Sharing field innovations & traditional methods",
+    },
     { name: "Academicians", desc: "Guiding rigorous scientific methodology" },
     { name: "Students", desc: "Empowering next-gen agricultural minds" },
     { name: "Policymakers", desc: "Translating research into agrarian policy" },
@@ -108,29 +117,29 @@ export const Home: React.FC = () => {
       desc: "Diverse cropping systems insulate communities from monoculture crop failures, ensuring continuous nutritional availability across seasons.",
       metric: "80%+",
       metricLabel: "Caloric stability through diverse germplasm",
-      icon: Layers
+      icon: Layers,
     },
     {
       title: "Climate Resilience",
       desc: "Indigenous landraces and wild relatives provide critical genetic traits for drought evasion, heat tolerance, and water efficiency.",
       metric: "3.2°C",
       metricLabel: "Canopy temperature moderation with agroforestry",
-      icon: CloudSun
+      icon: CloudSun,
     },
     {
       title: "Ecosystem Stability",
       desc: "Rich microbial and insect biodiversity suppresses pest outbreaks naturally and prevents acute agricultural chemical runoff.",
       metric: "34%",
       metricLabel: "Increase in microbial biomass carbon",
-      icon: Sprout
+      icon: Sprout,
     },
     {
       title: "Sustainable Livelihoods",
       desc: "Reducing reliance on costly external inputs allows smallholder farm families to maximize net margins and achieve economic sovereignty.",
       metric: "48%",
       metricLabel: "Average input cost reduction in natural farming",
-      icon: TrendingUp
-    }
+      icon: TrendingUp,
+    },
   ];
 
   return (
@@ -155,11 +164,22 @@ export const Home: React.FC = () => {
               </h2>
 
               <p className="text-sm sm:text-base text-gray-700 leading-relaxed">
-                Agrodiversity Magazine serves as an open-access, collaborative knowledge conduit connecting academic laboratories directly with the soil. Too often, groundbreaking research remains confined to institutional archives while practicing farmers develop ingenious grassroots solutions that go undocumented.
+                Agrodiversity Magazine publishes high-quality research articles,
+                case studies, and critical reviews across agriculture and allied
+                sciences. It promotes climate-smart farming, supports farmers
+                and early-career researchers, and helps preserve
+                agro-biodiversity, indigenous knowledge, and traditional seed
+                systems.
               </p>
 
               <p className="text-sm sm:text-base text-gray-700 leading-relaxed">
-                Published under <strong>SRN Publication</strong>, we bring together researchers, farmers, academicians, students, policymakers, and innovators into one unified platform dedicated to sustainable agricultural ecosystems.
+                <strong>
+                  Our Core Philosophy: The Bridge Between Agricultural Research
+                  &amp; Practical Farming.
+                </strong>{" "}
+                We aim to bridge the gap between laboratory research and
+                farmers’ field realities by making agricultural knowledge openly
+                accessible to researchers, students, farmers, and other readers.
               </p>
 
               <div className="pt-2 flex flex-wrap gap-4">
@@ -213,7 +233,8 @@ export const Home: React.FC = () => {
             Key Focus Areas
           </h2>
           <p className="text-sm sm:text-base text-gray-600">
-            Dedicated research tracks addressing the most pressing ecological and agronomic frontiers of contemporary agriculture.
+            Dedicated research tracks addressing the most pressing ecological
+            and agronomic frontiers of contemporary agriculture.
           </p>
         </div>
 
@@ -247,7 +268,9 @@ export const Home: React.FC = () => {
                     <span>View track articles</span>
                     <ArrowRight className="w-3.5 h-3.5" />
                   </Link>
-                  <span className="text-gray-400 font-mono text-[11px]">Track 0{area.id}</span>
+                  <span className="text-gray-400 font-mono text-[11px]">
+                    Track 0{area.id}
+                  </span>
                 </div>
               </div>
             );
@@ -266,7 +289,8 @@ export const Home: React.FC = () => {
               Latest Peer-Reviewed Articles
             </h2>
             <p className="text-sm text-gray-600 mt-1 max-w-2xl">
-              Original research papers, review articles, and grassroots farmer field trials published in Agrodiversity Magazine.
+              Original research papers, review articles, and grassroots farmer
+              field trials published in Agrodiversity Magazine.
             </p>
           </div>
 
@@ -302,7 +326,9 @@ export const Home: React.FC = () => {
               Why Agrodiversity Matters
             </h2>
             <p className="text-sm sm:text-base text-gray-600">
-              Agricultural biodiversity is not a luxury—it is the foundational prerequisite for sustaining life, buffering climate turbulence, and eliminating hunger.
+              Agricultural biodiversity is not a luxury—it is the foundational
+              prerequisite for sustaining life, buffering climate turbulence,
+              and eliminating hunger.
             </p>
           </div>
 
@@ -370,7 +396,9 @@ export const Home: React.FC = () => {
             </p>
 
             <p className="text-xs sm:text-base text-gray-300 leading-relaxed max-w-2xl mx-auto">
-              Whether you are an agricultural researcher with groundbreaking trial data, a student scholar, or a practicing farmer with a validated backyard tool innovation—your knowledge belongs here.
+              Whether you are an agricultural researcher with groundbreaking
+              trial data, a student scholar, or a practicing farmer with a
+              validated backyard tool innovation—your knowledge belongs here.
             </p>
 
             <div className="pt-4 flex flex-col sm:flex-row items-center justify-center gap-4">

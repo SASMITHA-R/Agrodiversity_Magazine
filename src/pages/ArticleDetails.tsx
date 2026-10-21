@@ -171,7 +171,7 @@ export const ArticleDetails: React.FC = () => {
             </span>
             <span>•</span>
             <span className="font-mono text-agro-leaf font-semibold">
-              DOI: {article.doi || "10.5281/agrodiversity.2026.0601"}
+              DOI: {article.doi || "10.5281/agrodiversity.2026.0001"}
             </span>
           </div>
 

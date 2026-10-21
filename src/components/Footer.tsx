@@ -43,7 +43,7 @@ export const Footer: React.FC = () => {
 
             <div className="flex items-center gap-2 text-xs text-agro-tint font-mono bg-agro-forest/60 p-2.5 rounded-lg border border-agro-leaf/30 w-fit">
               <ShieldCheck className="w-4 h-4 text-agro-gold flex-shrink-0" />
-              <span>Double-Blind Peer Review • Monthly Open Access</span>
+              <span>Double-Blind Peer Review - Monthly Open Access</span>
             </div>
           </div>
 
@@ -130,8 +130,8 @@ export const Footer: React.FC = () => {
               <li className="flex items-start gap-2">
                 <Mail className="w-4 h-4 text-agro-amber flex-shrink-0 mt-0.5" />
                 <div>
-                  <a href="mailto:agrodivemagz@gamil.com" className="hover:text-white break-all">
-                    agrodivemagz@gamil.com
+                  <a href="mailto:agrodivemagz@gmail.com" className="hover:text-white break-all">
+                    agrodivemagz@gmail.com
                   </a>
                   <div className="text-[10px] text-gray-400">Editorial Desk</div>
                 </div>

@@ -28,13 +28,13 @@ export const EditorialPolicies: React.FC = () => {
       title: "1. Editorial Scope",
       icon: BookOpen,
       content:
-        "Agrodiversity Magazine publishes original contributions encompassing agro-biodiversity preservation, climate-resilient cropping regimes, plant breeding and genetics, soil microbial health, precision irrigation, grassroots farmer machinery, and agricultural biotechnology. All manuscripts must demonstrate tangible value to agricultural science, farmers, or agrarian policy.",
+        "Agrodiversity Magazine publishes original contributions encompassing crop management, plant breeding and genetics, soil microbial health, precision irrigation, grassroots farmer machinery, and agricultural biotechnology. All manuscripts must demonstrate tangible value to agricultural science, farmers, or agrarian policy.",
     },
     {
       title: "2. Types of Articles Accepted",
       icon: Award,
       content:
-        "We welcome four distinct categories of manuscripts: (1) Review Articles (4000–8000 words), providing comprehensive critical appraisals of ongoing research themes; (2) Short Communications (1500–3000 words), presenting novel empirical findings of urgent importance; (3) Case Studies / Field Reports (1500–3000 words), detailing on-farm trials and participatory extension; and (4) Grassroots Farmer Innovations (1000–2000 words), documenting farm-level adaptations and farmer-inventor technologies.",
+        "We welcome five distinct categories of manuscripts: (1) Review Articles (4000–8000 words), providing comprehensive critical appraisals of ongoing research themes; (2) Short Communications (1500–3000 words), presenting novel empirical findings of urgent importance; (3) Case Studies / Field Reports (1500–3000 words), detailing on-farm trials and participatory extension; (4) Grassroots Farmer Innovations (1000–2000 words), documenting farm-level adaptations and farmer-inventor technologies; and (5) Research Articles.",
     },
     {
       title: "3. Peer Review Policy (Double-Blind Review)",
@@ -89,7 +89,7 @@ export const EditorialPolicies: React.FC = () => {
       title: "11. Open Access Policy",
       icon: Globe2,
       content:
-        "Agrodiversity Magazine promotes barrier-free open access to scientific information. All published papers and monthly issues are immediately and perpetually available online without subscription fees, paywalls, or institutional access gates.",
+        "Agrodiversity Magazine promotes open access to scientific information. All published papers and monthly issues are immediately and perpetually available online without subscription fees, paywalls, or institutional access gates.",
     },
     {
       title: "12. Publication Frequency",
@@ -107,7 +107,7 @@ export const EditorialPolicies: React.FC = () => {
       title: "14. Editorial Contact",
       icon: Mail,
       content:
-        "For policy clarifications, ethical grievances, or appeals, authors may contact the Editorial Secretariat directly at agrodivemagz@gamil.com or phone +91 9790879038. All appeals are investigated by an independent ad-hoc review committee.",
+        "For policy clarifications, ethical grievances, or appeals, authors may contact the Editorial Secretariat directly at agrodivemagz@gmail.com or phone +91 9790879038. All appeals are investigated by an independent ad-hoc review committee.",
     },
   ];
 
@@ -209,7 +209,7 @@ export const EditorialPolicies: React.FC = () => {
         <div className="flex items-center gap-2">
           <Mail className="w-4 h-4 text-agro-leaf flex-shrink-0" />
           <span>
-            Questions regarding editorial ethics? Contact: <strong>agrodivemagz@gamil.com</strong>
+            Questions regarding editorial ethics? Contact: <strong>agrodivemagz@gmail.com</strong>
           </span>
         </div>
         <Link
